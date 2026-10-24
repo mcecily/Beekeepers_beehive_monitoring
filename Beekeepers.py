@@ -62,7 +62,7 @@ def main():
 
     # Save the monitoring report
     REPORT_DIR.mkdir(exist_ok=True)
-    report_file = REPORT_DIR / "mrimahives_monitoring_report.csv"
+    report_file = REPORT_DIR / "Kwale_Beekeepers_monitoring_report.csv"
     df.to_csv(report_file, index=False)
 
     print("Monitoring report saved to:", report_file)
