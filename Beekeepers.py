@@ -4,7 +4,7 @@ import pandas as pd
 
 # Locate the project folders
 PROJECT_DIR = Path(__file__).resolve().parent.parent
-DATA_FILE = PROJECT_DIR / "data_inspections_csv.csv"
+DATA_FILE = PROJECT_DIR / "data_inspections.csv"
 REPORT_DIR = PROJECT_DIR / "reports"
 
 
