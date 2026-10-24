@@ -61,6 +61,4 @@ Add automated tests and stronger validation.
 Author
 
 Cecily Waithira
-Founder, MrimaHives
-
-This project is being developed as a learning and portfolio project to explore practical applications of Python in field operations and data management.
+Founder, MrimaHives.
