@@ -1,0 +1,8 @@
+
+hive_id,colony_active,pests_detected,honey_kg,days_since_inspection
+A01,True,False,10,5
+A02,True,False,7,9
+A07,True,False,9.5,10
+A04,True,False,8,6
+A05,True,False,11,5
+A03,True,False,5,8
